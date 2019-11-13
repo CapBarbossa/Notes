@@ -8,7 +8,7 @@ git clone --branch v1.1.0 <repo>
 	#指定拷贝最新的commit
 git clone -depth=1 <repo>
 
-
+# 将本地的目录
 
 
 
